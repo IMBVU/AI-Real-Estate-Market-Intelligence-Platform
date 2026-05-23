@@ -9,5 +9,4 @@ Synthetic Metro Atlanta housing analytics project using Tableau, BigQuery-style 
 - `scripts/generate_market_summary.py`: automated market summary script.
 - `docs/tableau_dashboard_blueprint.md`: Tableau dashboard layout and calculated fields.
 
-## Portfolio angle
-This project shows property data modeling, geospatial market analysis, affordability scoring, price-per-square-foot benchmarking, and automated market reporting for real estate decision-making.
+
