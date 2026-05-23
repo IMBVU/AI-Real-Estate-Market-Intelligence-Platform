@@ -84,3 +84,20 @@ AI Market Insight Reporting
 git clone https://github.com/YOUR-USERNAME/AI-Real-Estate-Market-Intelligence-Platform.git
 cd AI-Real-Estate-Market-Intelligence-Platform
 
+Create Virtual Environment
+
+Mac/Linux:
+
+python3 -m venv venv
+source venv/bin/activate
+
+Windows:
+
+python -m venv venv
+venv\Scripts\activate
+
+3. Install Dependencies
+pip install -r requirements.txt
+
+4. Run the Dashboard
+streamlit run app.py
