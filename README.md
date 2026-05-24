@@ -12,7 +12,8 @@ Python | Streamlit | SQL | Tableau | BigQuery | Plotly | GIS Analytics
 
 ## Dashboard Preview
 
-(Add my images)
+<img width="1512" height="982" alt="Realestate SS" src="https://github.com/user-attachments/assets/766766c6-3965-4db7-b22b-17cc64526b01" />
+
 
 ---
 
